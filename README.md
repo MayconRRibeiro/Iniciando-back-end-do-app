@@ -1,23 +1,38 @@
-### Primeiro Projeto com Node.JS
+### Iniciando back-end do app
 
-Nessa fase vamos aprender a configurar um projeto do total zero utilizando Node.js e TypeScript incluindo ferramentas como ts-node-dev, ESLint, Prettier, EditorConfig.
+Nessa etapa vamos continuar os aprendizados com Node.js aproveitando o projeto desenvolvido até agora para começar a trabalhar com conceitos de banco de dados, autenticação, autorização, etc.
 
 ### Conceitos estudados
 
-###### Estrutura e padrões
+###### Banco de dados
 
-- Configurando estrutura
-- 🛠[Padrões de Projeto com Eslint, Prettier e EditorConfig](https://www.notion.so/Padr-es-de-projeto-com-ESLint-Prettier-e-EditorConfig-0b57b47a24724c859c0cf226aa0cc3a7)
-- Debugando NodeJS
+- Estratégias de abstração
+- Conceitos Docker
+- 🛠[Instalando Docker](https://www.notion.so/Instalando-Docker-6290d9994b0b4555a153576a1d97bee2)
+- Criando container do banco
+- Configurando TypeORM
+- Cirando tabela de agendamentos
+- Criando model de agendamento
+- Repositório do TypeORM
 
-###### Construindo Aplicação
+###### Cadastro de usuários
 
-- Layout da Aplicação
-- Cadastro de Agendamentos
-- Validanto a data
-- Model de Agendamento
-- Criando repositórios
-- Listando Agendamentos
-- Trabalhando com dados
-- Services & SOLID
-- 🛠[Repositórios, services & patterns](https://www.notion.so/Repository-service-e-patterns-82419cceb11c4c4fbbc055ade7fb1ac5)
+- Model e migration de usuários
+- Relacionamento nos models
+- Criação de registros
+- Criptografia de senha
+
+###### Autenticação
+
+- Conceitos de JWT
+- Validando credenciais
+- Gerando token JWT
+- Rotas autenticadas
+
+###### Upload de imagens
+
+- Upload de arquivos
+- Atualizando avatar
+- Servindo arquivos estáticos
+
+###### Tratando exceções
