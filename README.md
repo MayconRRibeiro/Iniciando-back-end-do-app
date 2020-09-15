@@ -36,3 +36,6 @@ Nessa etapa vamos continuar os aprendizados com Node.js aproveitando o projeto d
 - Servindo arquivos estáticos
 
 ###### Tratando exceções
+
+- Criando classe de erro
+- Lidando com erros
