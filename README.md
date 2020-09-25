@@ -11,7 +11,7 @@ Nessa etapa vamos continuar os aprendizados com Node.js aproveitando o projeto d
 - 🛠[Instalando Docker](https://www.notion.so/Instalando-Docker-6290d9994b0b4555a153576a1d97bee2)
 - Criando container do banco
 - Configurando TypeORM
-- Cirando tabela de agendamentos
+- Criando tabela de agendamentos
 - Criando model de agendamento
 - Repositório do TypeORM
 
